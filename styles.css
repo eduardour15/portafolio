@@ -937,6 +937,10 @@ h1 {
         padding-block: 55px 56px;
     }
 
+    h1 {
+        line-height: 1.05;
+    }
+
     .hero-portrait {
         margin-inline: auto;
     }
